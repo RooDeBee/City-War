@@ -1,0 +1,1 @@
+draw_text_transformed_color(100 + (global.Move_Position * global.Move_speed), 200, floor(global.money), 4, 4, 0, c_black, c_black, c_black, c_black, 1);
